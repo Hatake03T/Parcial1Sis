@@ -1,0 +1,36 @@
+[{
+  "_id": 2,
+  "pcode": "cerealv1",
+  "name": "P'captain sugar pops",
+  "price": 7.5,
+  "in_stock": 10,
+  "category": "Cereals"
+},{
+  "_id": 3,
+  "pcode": "soapv1",
+  "name": "Dove clean deep",
+  "price": 3.5,
+  "in_stock": 120,
+  "category": "Soaps"
+},{
+  "_id": 4,
+  "pcode": "drinkv1",
+  "name": "Dr Pepper cherry",
+  "price": 1.8,
+  "in_stock": 30,
+  "category": "Drinks"
+},{
+  "_id": 5,
+  "pcode": "dairyv1",
+  "name": "Milky delicious milk",
+  "price": 1.5,
+  "in_stock": 10,
+  "category": "Dairy"
+},{
+  "_id": 7,
+  "pcode": "meatv1",
+  "name": "Angelina Res",
+  "price": "3.50",
+  "in_stock": "12",
+  "category": "Meats"
+}]
